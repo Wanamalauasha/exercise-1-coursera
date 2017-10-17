@@ -89,3 +89,8 @@ I think I'll stay for a while
 That was part of the RHCP superhit 'Sir Psyscho sexy',
 check it out [here](https://www.youtube.com/watch?v=Y7d2vWh8kiQ)
 
+# Guessing game
+## Created `date`
+## guessinggame.sh consists of \
+`wc -l guessinggame.sh | cut -f7 -d' '` lines in total
+
