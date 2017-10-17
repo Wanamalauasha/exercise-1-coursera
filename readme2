@@ -1,0 +1,4 @@
+# Guessing game
+## Created `date`
+## guessinggame.sh consists of \
+`wc -l guessinggame.sh | cut -f7 -d' '` lines in total
